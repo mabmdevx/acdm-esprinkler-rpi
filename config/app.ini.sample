@@ -1,0 +1,9 @@
+[site]
+SITE_NAME     = eSprinkler - Pi
+SITE_SHORT_NAME = ESPRINKLER-PI
+
+[database]
+DB_HOST     = localhost
+DB_NAME     = esprinkler_pi
+DB_USER     = dbuserxyz
+DB_PASSWORD = dbpasswordxyz
